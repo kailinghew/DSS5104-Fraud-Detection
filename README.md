@@ -22,6 +22,22 @@ DSS5104 Assignment/
     sample_submission.csv
 ```
 
+  ## Download Datasets
+
+  You can download the datasets from Kaggle:
+
+  - IEEE-CIS Fraud Detection: https://www.kaggle.com/c/ieee-fraud-detection
+  - Credit Card Fraud Detection: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+  After downloading:
+
+  1. Place the IEEE-CIS CSV files in `ieee-fraud-detection/`:
+     - `train_transaction.csv`
+     - `train_identity.csv`
+     - `test_transaction.csv`
+     - `test_identity.csv`
+  2. Place `creditcard.csv` in `creditcardfraud/`.
+
 ## 1. Create and Activate a Python Environment
 
 ### Windows (PowerShell)
